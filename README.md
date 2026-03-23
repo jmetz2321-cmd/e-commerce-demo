@@ -11,6 +11,8 @@ A clickable single-page e-commerce cart prototype built with React, TypeScript, 
 - Checkout modal with simulated payment form and validation
 - View toggling between shop and bag
 
+  Figma: https://www.figma.com/design/q3a5K5IL0PRMaB8GgVFcmr/ShopVolt-E-Commerce-Cart-Prototype?node-id=0-1&p=f&t=YqCnA6BeOeCJtq18-0https://www.figma.com/design/q3a5K5IL0PRMaB8GgVFcmr/ShopVolt-E-Commerce-Cart-Prototype?node-id=0-1&p=f&t=YqCnA6BeOeCJtq18-0
+
 ## Getting Started
 
 ```bash
