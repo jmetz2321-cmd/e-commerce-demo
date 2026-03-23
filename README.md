@@ -18,7 +18,7 @@ npm install
 npm run dev
 ```
 
-Open (https://jmetz2321-cmd.github.io/e-commerce-demo/?v=2)) in your browser.
+Open (https://jmetz2321-cmd.github.io/e-commerce-demo/?v=2) in your browser.
 
 ## Tech Stack
 
