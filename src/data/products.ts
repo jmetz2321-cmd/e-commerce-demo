@@ -1,0 +1,86 @@
+import type { Product } from "../types";
+
+export const products: Product[] = [
+  {
+    id: 1,
+    name: "Wireless Noise-Cancelling Headphones",
+    price: 249.99,
+    image: "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=400&h=400&fit=crop",
+    category: "Electronics",
+    description: "Premium over-ear headphones with active noise cancellation and 30-hour battery life.",
+  },
+  {
+    id: 2,
+    name: "Mechanical Keyboard",
+    price: 149.99,
+    image: "https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=400&h=400&fit=crop",
+    category: "Electronics",
+    description: "Compact 75% layout with hot-swappable switches and RGB backlighting.",
+  },
+  {
+    id: 3,
+    name: "Ultra-Wide Monitor",
+    price: 599.99,
+    image: "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?w=400&h=400&fit=crop",
+    category: "Electronics",
+    description: "34-inch curved ultrawide with 144Hz refresh rate and USB-C connectivity.",
+  },
+  {
+    id: 4,
+    name: "Classic Denim Jacket",
+    price: 89.99,
+    image: "https://images.unsplash.com/photo-1576995853123-5a10305d93c0?w=400&h=400&fit=crop",
+    category: "Clothing",
+    description: "Timeless denim jacket with a modern slim fit and premium wash.",
+  },
+  {
+    id: 5,
+    name: "Running Sneakers",
+    price: 129.99,
+    image: "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=400&h=400&fit=crop",
+    category: "Clothing",
+    description: "Lightweight performance sneakers with responsive cushioning.",
+  },
+  {
+    id: 6,
+    name: "Merino Wool Sweater",
+    price: 74.99,
+    image: "https://images.unsplash.com/photo-1620799140408-edc6dcb6d633?w=400&h=400&fit=crop",
+    category: "Clothing",
+    description: "Soft, breathable merino wool crewneck for all-season comfort.",
+  },
+  {
+    id: 7,
+    name: "Leather Crossbody Bag",
+    price: 159.99,
+    image: "https://images.unsplash.com/photo-1548036328-c9fa89d128fa?w=400&h=400&fit=crop",
+    category: "Accessories",
+    description: "Full-grain leather bag with adjustable strap and multiple compartments.",
+  },
+  {
+    id: 8,
+    name: "Stainless Steel Watch",
+    price: 299.99,
+    image: "https://images.unsplash.com/photo-1524592094714-0f0654e20314?w=400&h=400&fit=crop",
+    category: "Accessories",
+    description: "Minimalist analog watch with sapphire crystal and 50m water resistance.",
+  },
+  {
+    id: 9,
+    name: "Polarized Sunglasses",
+    price: 64.99,
+    image: "https://images.unsplash.com/photo-1572635196237-14b3f281503f?w=400&h=400&fit=crop",
+    category: "Accessories",
+    description: "UV400 polarized lenses in a lightweight acetate frame.",
+  },
+  {
+    id: 10,
+    name: "Wireless Charging Pad",
+    price: 34.99,
+    image: "https://images.unsplash.com/photo-1586953208448-b95a79798f07?w=400&h=400&fit=crop",
+    category: "Electronics",
+    description: "15W fast wireless charger compatible with all Qi-enabled devices.",
+  },
+];
+
+export const categories = ["All", "Electronics", "Clothing", "Accessories"];
