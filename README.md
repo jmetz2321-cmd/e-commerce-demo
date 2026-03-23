@@ -20,6 +20,11 @@ npm run dev
 
 Open [http://localhost:5173](http://localhost:5173) in your browser.
 
+## Design
+
+- [Figma — ShopVolt E-Commerce Cart Prototype](https://www.figma.com/design/q3a5K5IL0PRMaB8GgVFcmr/ShopVolt-E-Commerce-Cart-Prototype?node-id=0-1)
+- [SPEC.md](./SPEC.md) — full product spec (source of truth)
+
 ## Tech Stack
 
 - [React](https://react.dev) + TypeScript
